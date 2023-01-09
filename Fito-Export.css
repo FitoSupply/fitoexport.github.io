@@ -12,7 +12,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 655px;
+  min-height: 631px;
   pointer-events: auto;
   background-image: none;
 }
@@ -35,16 +35,15 @@
   letter-spacing: 1px;
   font-weight: 800;
   text-transform: none;
-  margin: 37px 45px 0 auto;
+  margin: 36px 20px 0 auto;
   padding: 17px 36px 19px 35px;
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 655px;
+  min-height: 631px;
   pointer-events: auto;
-  background-image: url("https://fitoexport.world/images/forest-herbs1.jpg");
-  background-position: 24.66% 42.95%;
-  background-size: auto 120%;
+  background-image: url("images/forest-herbs1.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -82,7 +81,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 540px;
+    min-height: 520px;
+    background-size: auto 115%;
   }
 }
 
@@ -92,7 +92,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 500px;
+    min-height: 562px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -105,7 +105,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 414px;
+    min-height: 562px;
   }
 }
 
@@ -193,7 +193,7 @@
   width: 965px;
   height: auto;
   background-image: none;
-  margin: -364px auto 60px;
+  margin: -366px auto 60px;
 }
 
 .u-section-3 .u-container-layout-1 {
